@@ -2,3 +2,6 @@
 !.gitignore
 !html/
 !html/**
+!.github/
+!.github/workflows/
+!.github/workflows/**
