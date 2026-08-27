@@ -1,7 +1,7 @@
 *
-!.gitignore
-!html/
-!html/**
-!.github/
-!.github/workflows/
-!.github/workflows/**
+!/.gitignore
+!/.github/
+!/.github/workflows/
+!/.github/workflows/deploy-pages.yml
+!/html/
+!/html/index.html

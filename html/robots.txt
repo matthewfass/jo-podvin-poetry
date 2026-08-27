@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://jopodvin.com/sitemap.xml
