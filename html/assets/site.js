@@ -1,4 +1,4 @@
-const SITE_VERSION = '0.2.0';
+const SITE_VERSION = '0.2.1';
 const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
 document.querySelectorAll('[data-site-version]').forEach((element) => {
